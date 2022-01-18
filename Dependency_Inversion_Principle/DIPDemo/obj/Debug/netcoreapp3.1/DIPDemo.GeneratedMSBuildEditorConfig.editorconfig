@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = DIPDemo
+build_property.ProjectDir = D:\C# programming\Design Pattern\SOLID design pattern\Dependency_Inversion_Principle\DIPDemo\

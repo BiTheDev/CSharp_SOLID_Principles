@@ -1,0 +1,14 @@
+D:\C# programming\Design Pattern\SOLID design pattern\Single_Responsibility_Principle\SRPDemo\bin\Debug\netcoreapp3.1\SRPDemo.exe
+D:\C# programming\Design Pattern\SOLID design pattern\Single_Responsibility_Principle\SRPDemo\bin\Debug\netcoreapp3.1\SRPDemo.deps.json
+D:\C# programming\Design Pattern\SOLID design pattern\Single_Responsibility_Principle\SRPDemo\bin\Debug\netcoreapp3.1\SRPDemo.runtimeconfig.json
+D:\C# programming\Design Pattern\SOLID design pattern\Single_Responsibility_Principle\SRPDemo\bin\Debug\netcoreapp3.1\SRPDemo.runtimeconfig.dev.json
+D:\C# programming\Design Pattern\SOLID design pattern\Single_Responsibility_Principle\SRPDemo\bin\Debug\netcoreapp3.1\SRPDemo.dll
+D:\C# programming\Design Pattern\SOLID design pattern\Single_Responsibility_Principle\SRPDemo\bin\Debug\netcoreapp3.1\SRPDemo.pdb
+D:\C# programming\Design Pattern\SOLID design pattern\Single_Responsibility_Principle\SRPDemo\obj\Debug\netcoreapp3.1\SRPDemo.csproj.AssemblyReference.cache
+D:\C# programming\Design Pattern\SOLID design pattern\Single_Responsibility_Principle\SRPDemo\obj\Debug\netcoreapp3.1\SRPDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# programming\Design Pattern\SOLID design pattern\Single_Responsibility_Principle\SRPDemo\obj\Debug\netcoreapp3.1\SRPDemo.AssemblyInfoInputs.cache
+D:\C# programming\Design Pattern\SOLID design pattern\Single_Responsibility_Principle\SRPDemo\obj\Debug\netcoreapp3.1\SRPDemo.AssemblyInfo.cs
+D:\C# programming\Design Pattern\SOLID design pattern\Single_Responsibility_Principle\SRPDemo\obj\Debug\netcoreapp3.1\SRPDemo.csproj.CoreCompileInputs.cache
+D:\C# programming\Design Pattern\SOLID design pattern\Single_Responsibility_Principle\SRPDemo\obj\Debug\netcoreapp3.1\SRPDemo.dll
+D:\C# programming\Design Pattern\SOLID design pattern\Single_Responsibility_Principle\SRPDemo\obj\Debug\netcoreapp3.1\SRPDemo.pdb
+D:\C# programming\Design Pattern\SOLID design pattern\Single_Responsibility_Principle\SRPDemo\obj\Debug\netcoreapp3.1\SRPDemo.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+D:\C# programming\Design Pattern\SOLID design pattern\Liskov_Substitution_Principle\DemoLibrary\bin\Debug\netcoreapp3.1\DemoLibrary.deps.json
+D:\C# programming\Design Pattern\SOLID design pattern\Liskov_Substitution_Principle\DemoLibrary\bin\Debug\netcoreapp3.1\DemoLibrary.dll
+D:\C# programming\Design Pattern\SOLID design pattern\Liskov_Substitution_Principle\DemoLibrary\bin\Debug\netcoreapp3.1\DemoLibrary.pdb
+D:\C# programming\Design Pattern\SOLID design pattern\Liskov_Substitution_Principle\DemoLibrary\obj\Debug\netcoreapp3.1\DemoLibrary.csproj.AssemblyReference.cache
+D:\C# programming\Design Pattern\SOLID design pattern\Liskov_Substitution_Principle\DemoLibrary\obj\Debug\netcoreapp3.1\DemoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# programming\Design Pattern\SOLID design pattern\Liskov_Substitution_Principle\DemoLibrary\obj\Debug\netcoreapp3.1\DemoLibrary.AssemblyInfoInputs.cache
+D:\C# programming\Design Pattern\SOLID design pattern\Liskov_Substitution_Principle\DemoLibrary\obj\Debug\netcoreapp3.1\DemoLibrary.AssemblyInfo.cs
+D:\C# programming\Design Pattern\SOLID design pattern\Liskov_Substitution_Principle\DemoLibrary\obj\Debug\netcoreapp3.1\DemoLibrary.csproj.CoreCompileInputs.cache
+D:\C# programming\Design Pattern\SOLID design pattern\Liskov_Substitution_Principle\DemoLibrary\obj\Debug\netcoreapp3.1\DemoLibrary.dll
+D:\C# programming\Design Pattern\SOLID design pattern\Liskov_Substitution_Principle\DemoLibrary\obj\Debug\netcoreapp3.1\DemoLibrary.pdb

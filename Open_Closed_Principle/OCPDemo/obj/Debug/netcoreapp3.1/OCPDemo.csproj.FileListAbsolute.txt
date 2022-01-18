@@ -1,0 +1,14 @@
+D:\C# programming\Design Pattern\SOLID design pattern\Open_Closed_Principle\OCPDemo\bin\Debug\netcoreapp3.1\OCPDemo.exe
+D:\C# programming\Design Pattern\SOLID design pattern\Open_Closed_Principle\OCPDemo\bin\Debug\netcoreapp3.1\OCPDemo.deps.json
+D:\C# programming\Design Pattern\SOLID design pattern\Open_Closed_Principle\OCPDemo\bin\Debug\netcoreapp3.1\OCPDemo.runtimeconfig.json
+D:\C# programming\Design Pattern\SOLID design pattern\Open_Closed_Principle\OCPDemo\bin\Debug\netcoreapp3.1\OCPDemo.runtimeconfig.dev.json
+D:\C# programming\Design Pattern\SOLID design pattern\Open_Closed_Principle\OCPDemo\bin\Debug\netcoreapp3.1\OCPDemo.dll
+D:\C# programming\Design Pattern\SOLID design pattern\Open_Closed_Principle\OCPDemo\bin\Debug\netcoreapp3.1\OCPDemo.pdb
+D:\C# programming\Design Pattern\SOLID design pattern\Open_Closed_Principle\OCPDemo\obj\Debug\netcoreapp3.1\OCPDemo.csproj.AssemblyReference.cache
+D:\C# programming\Design Pattern\SOLID design pattern\Open_Closed_Principle\OCPDemo\obj\Debug\netcoreapp3.1\OCPDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# programming\Design Pattern\SOLID design pattern\Open_Closed_Principle\OCPDemo\obj\Debug\netcoreapp3.1\OCPDemo.AssemblyInfoInputs.cache
+D:\C# programming\Design Pattern\SOLID design pattern\Open_Closed_Principle\OCPDemo\obj\Debug\netcoreapp3.1\OCPDemo.AssemblyInfo.cs
+D:\C# programming\Design Pattern\SOLID design pattern\Open_Closed_Principle\OCPDemo\obj\Debug\netcoreapp3.1\OCPDemo.csproj.CoreCompileInputs.cache
+D:\C# programming\Design Pattern\SOLID design pattern\Open_Closed_Principle\OCPDemo\obj\Debug\netcoreapp3.1\OCPDemo.dll
+D:\C# programming\Design Pattern\SOLID design pattern\Open_Closed_Principle\OCPDemo\obj\Debug\netcoreapp3.1\OCPDemo.pdb
+D:\C# programming\Design Pattern\SOLID design pattern\Open_Closed_Principle\OCPDemo\obj\Debug\netcoreapp3.1\OCPDemo.genruntimeconfig.cache

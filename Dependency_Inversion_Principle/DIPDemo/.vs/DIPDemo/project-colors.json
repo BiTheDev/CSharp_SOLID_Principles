@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "99d973f5-7b76-493e-83c9-2c0c0ea6853b": {
+      "ProjectGuid": "99d973f5-7b76-493e-83c9-2c0c0ea6853b",
+      "DisplayName": "DIPDemo",
+      "ColorIndex": 0
+    },
+    "a035c2d3-ebbf-4b79-a019-54d95aeac830": {
+      "ProjectGuid": "a035c2d3-ebbf-4b79-a019-54d95aeac830",
+      "DisplayName": "DemoLibrary",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

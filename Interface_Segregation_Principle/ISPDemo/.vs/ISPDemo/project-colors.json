@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dd010595-c9bd-4256-892d-b75077b47490": {
+      "ProjectGuid": "dd010595-c9bd-4256-892d-b75077b47490",
+      "DisplayName": "ISPDemo",
+      "ColorIndex": 0
+    },
+    "21c25c57-a6e1-44a0-8526-24146813fe66": {
+      "ProjectGuid": "21c25c57-a6e1-44a0-8526-24146813fe66",
+      "DisplayName": "DemoLibrary",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

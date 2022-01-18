@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "251255f0-16c2-415f-835f-7b1f3d76ad5d": {
+      "ProjectGuid": "251255f0-16c2-415f-835f-7b1f3d76ad5d",
+      "DisplayName": "LSPDemo",
+      "ColorIndex": 0
+    },
+    "0d40a17d-8a95-4cbb-8d70-519e88fb6a39": {
+      "ProjectGuid": "0d40a17d-8a95-4cbb-8d70-519e88fb6a39",
+      "DisplayName": "DemoLibrary",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

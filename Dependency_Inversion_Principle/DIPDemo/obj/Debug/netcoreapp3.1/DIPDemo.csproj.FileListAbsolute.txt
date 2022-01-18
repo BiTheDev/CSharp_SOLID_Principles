@@ -1,0 +1,17 @@
+D:\C# programming\Design Pattern\SOLID design pattern\Dependency_Inversion_Principle\DIPDemo\bin\Debug\netcoreapp3.1\DIPDemo.exe
+D:\C# programming\Design Pattern\SOLID design pattern\Dependency_Inversion_Principle\DIPDemo\bin\Debug\netcoreapp3.1\DIPDemo.deps.json
+D:\C# programming\Design Pattern\SOLID design pattern\Dependency_Inversion_Principle\DIPDemo\bin\Debug\netcoreapp3.1\DIPDemo.runtimeconfig.json
+D:\C# programming\Design Pattern\SOLID design pattern\Dependency_Inversion_Principle\DIPDemo\bin\Debug\netcoreapp3.1\DIPDemo.runtimeconfig.dev.json
+D:\C# programming\Design Pattern\SOLID design pattern\Dependency_Inversion_Principle\DIPDemo\bin\Debug\netcoreapp3.1\DIPDemo.dll
+D:\C# programming\Design Pattern\SOLID design pattern\Dependency_Inversion_Principle\DIPDemo\bin\Debug\netcoreapp3.1\DIPDemo.pdb
+D:\C# programming\Design Pattern\SOLID design pattern\Dependency_Inversion_Principle\DIPDemo\bin\Debug\netcoreapp3.1\DemoLibrary.dll
+D:\C# programming\Design Pattern\SOLID design pattern\Dependency_Inversion_Principle\DIPDemo\bin\Debug\netcoreapp3.1\DemoLibrary.pdb
+D:\C# programming\Design Pattern\SOLID design pattern\Dependency_Inversion_Principle\DIPDemo\obj\Debug\netcoreapp3.1\DIPDemo.csproj.AssemblyReference.cache
+D:\C# programming\Design Pattern\SOLID design pattern\Dependency_Inversion_Principle\DIPDemo\obj\Debug\netcoreapp3.1\DIPDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# programming\Design Pattern\SOLID design pattern\Dependency_Inversion_Principle\DIPDemo\obj\Debug\netcoreapp3.1\DIPDemo.AssemblyInfoInputs.cache
+D:\C# programming\Design Pattern\SOLID design pattern\Dependency_Inversion_Principle\DIPDemo\obj\Debug\netcoreapp3.1\DIPDemo.AssemblyInfo.cs
+D:\C# programming\Design Pattern\SOLID design pattern\Dependency_Inversion_Principle\DIPDemo\obj\Debug\netcoreapp3.1\DIPDemo.csproj.CoreCompileInputs.cache
+D:\C# programming\Design Pattern\SOLID design pattern\Dependency_Inversion_Principle\DIPDemo\obj\Debug\netcoreapp3.1\DIPDemo.csproj.CopyComplete
+D:\C# programming\Design Pattern\SOLID design pattern\Dependency_Inversion_Principle\DIPDemo\obj\Debug\netcoreapp3.1\DIPDemo.dll
+D:\C# programming\Design Pattern\SOLID design pattern\Dependency_Inversion_Principle\DIPDemo\obj\Debug\netcoreapp3.1\DIPDemo.pdb
+D:\C# programming\Design Pattern\SOLID design pattern\Dependency_Inversion_Principle\DIPDemo\obj\Debug\netcoreapp3.1\DIPDemo.genruntimeconfig.cache
